@@ -4,6 +4,7 @@ from discord.ext.commands import Bot
 import asyncio
 import time
 import json
+import os
 
 #----------------------------------------------------------------------------------------------------
 # These variables must be filled out in order for the bot to work.
